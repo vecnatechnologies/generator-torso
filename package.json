@@ -1,0 +1,26 @@
+{
+  "name": "generator-torso",
+  "version": "0.1.0",
+  "description": "Generator for a backbone-torso application",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "1.8.3",
+    "yeoman-generator": "^0.19.2",
+    "colors": "^1.1.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vecnatechnologies/generator-torso.git"
+  },
+  "keywords": [
+    "backbone-torso",
+    "torso",
+    "backbone"
+  ],
+  "author": "Kent Willis <kentmw@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/vecnatechnologies/generator-torso/issues"
+  },
+  "homepage": "https://github.com/vecnatechnologies/generator-torso"
+}
