@@ -34,6 +34,6 @@ module.exports = new (Torso.Router.extend({
     }
 
     this.current = nextPerspective;
-    this.current.attach($('.app'));
+    this.current.attachTo($('.app'));
   }
 }))();
