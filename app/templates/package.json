@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "devDependencies": {
     "aliasify": "1.7.2",
-    "backbone-torso": "0.5.0",
+    "backbone-torso": "0.6.9",
     "browser-sync": "2.8.2",
     "browserify": "9.0.8",
     "color-log": "0.0.2",
