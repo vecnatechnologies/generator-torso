@@ -1,6 +1,6 @@
 {
   "name": "generator-torso",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Generator for a backbone-torso application",
   "main": "index.js",
   "dependencies": {
