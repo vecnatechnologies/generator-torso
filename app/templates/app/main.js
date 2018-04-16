@@ -1,4 +1,6 @@
 var $ = require('jquery');
+var Backbone = require('backbone');
+Backbone.$ = $;
 
 // Expose some globals
 window.$ = $;
